@@ -9,7 +9,7 @@ Go的汉字转拼音库
 ```Go
 package main
 
-import "github.com/hubenchang0515/Excalibur/pinyin"
+import "github.com/hubenchang0515/go-pinyin"
 
 func main() {
 	var py = pinyin.NewPinyin()
